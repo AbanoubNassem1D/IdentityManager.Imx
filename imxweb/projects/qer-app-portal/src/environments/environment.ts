@@ -30,7 +30,7 @@
 
 export const environment = {
   production: false,
-  clientUrl: 'http://localhost/ApiServer',
+  clientUrl: 'https://localhost/ApiServer',
   appName: 'qer-app-portal',
   appVersion: '1.0.0'
 };
